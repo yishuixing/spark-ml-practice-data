@@ -5,4 +5,5 @@ conda create -n py37 python=3.7
 conda activate py37
 pip install requests
 pip install BeautifulSoup4
+pip install jieba
 ```
